@@ -15,15 +15,15 @@ It Collect, access, and analyze your resource and application data using powerfu
 
 <img src ="https://github.com/Lourdez/images/blob/main/Product-Page-Diagram_Amazon-CloudWatch.095eb618193be7422d2d34e3abd5fdf178b6c0e2.png">
 
-Improve operational performance using alarms and automated actions set to activate at predetermined thresholds.
++ Improve operational performance using alarms and automated actions set to activate at predetermined thresholds.
 
-Seamlessly integrate with more than 70 AWS services for simplified monitoring and scalability.
++ Seamlessly integrate with more than 70 AWS services for simplified monitoring and scalability.
 
-Troubleshoot operational problems with actionable insights derived from logs and metrics in your Cloud Watch dashboards.
++ Troubleshoot operational problems with actionable insights derived from logs and metrics in your Cloud Watch dashboards.
 
 ## Use Cases
 ### Monitor application performance
-Visualize performance data, create alarms, and correlate data to understand and resolve the root cause of performance issues in your AWS resources.
++ Visualize performance data, create alarms, and correlate data to understand and resolve the root cause of performance issues in your AWS resources.
 
 <img src ="https://github.com/Lourdez/images/blob/main/monitor.png">
 
