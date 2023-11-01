@@ -116,7 +116,7 @@ The unified Cloud Watch agent enables you to do the following:
 ### Container Insights.
 + This feature collects, aggregates and monitors metrics and logs for containerized applications and microservices. It can also troubleshoot Amazon Elastic Kubernetes Service and Amazon Container Orchestration Service. 
 ### CloudWatch Lambda Insights.
-+This service collects, aggregates and monitors AWS Lambda logs and performance metrics from each container, including CPU, memory and disk information.   
++ This service collects, aggregates and monitors AWS Lambda logs and performance metrics from each container, including CPU, memory and disk information.   
 
 ### Contributor Insights.
 + This feature provides a view of the top contributors influencing system performance, such as API calls, applications or customer accounts.
